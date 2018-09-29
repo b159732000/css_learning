@@ -2,14 +2,19 @@
     font-family: sans-serif;
 }
 
+body {
+    margin: 0;
+}
+
 ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
     width: 200px;
     height: 100%;
+    position: fixed;
     background-color: #f1f1f1;
-    text-align: center;
+    text-align: left;
 }
 
 li a {
