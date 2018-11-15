@@ -1,0 +1,49 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.site-header {
+    height: 50px;
+    background-color: #80eae6;
+}
+
+.site-main {
+    height: 500px;
+    background-color: #566270;
+}
+
+.site-footer {
+    
+}
+
+.site-header-inner {
+    height: 50px;
+    background-color: #ffe1e12b;
+}
+
+.site-main-inner {
+    height: 500px;
+    background-color: #738496;
+}
+
+.sidebar {
+    width: 20%;
+    height: 500px;
+    float: left;
+    background-color: crimson;
+}
+
+.top {
+    clear: both;
+    width: 300px;
+    height: 300px;
+    background-color: darkviolet;
+}
+
+.content {
+    width: 80%;
+    height: 500px;
+    overflow: auto;
+    background-color: #1474dc;
+}
